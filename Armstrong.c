@@ -1,11 +1,10 @@
-/*
- 
-Write a program which accepts number from user and check whether the number is armstrong or not.
+/* Write a program which accepts number from user and check whether the number is armstrong or not.
 
 Input : 1634
 Output : TRUE
 
 */
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 
