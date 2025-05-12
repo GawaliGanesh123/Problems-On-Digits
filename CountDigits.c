@@ -1,14 +1,12 @@
-/*
- 
-Write a program which accepts number from user and Count Digits from that number.
+/* Write a program which accepts number from user and Count Digits from that number.
 
 Input : 1634
 Output : 4
 
 Input : 37
 Output :2
-
 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
