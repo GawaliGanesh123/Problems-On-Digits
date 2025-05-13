@@ -1,14 +1,14 @@
-/*
- 
-Write a program which accepts number from user and Count Even Digits from that number.
+/* Write a program which accepts number from user and Count Even Digits from that number.
 
 Input : 1634
 Output : 2
 
 Input : 37
 Output :0
-
 */
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 #include<stdio.h>
 
