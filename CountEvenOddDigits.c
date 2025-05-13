@@ -1,12 +1,11 @@
-/*
-
-Accept Number From User and count Even and odd digits  of  that number and display.
+/*  Accept Number From User and count Even and odd digits  of  that number and display.
 
 Input- 12345
 Output- Number of Even Digits Are : 2
         Number of Odd Digits Are : 3
 
-*/        
+*/   
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 
