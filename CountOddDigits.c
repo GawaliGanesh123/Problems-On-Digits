@@ -1,6 +1,4 @@
-/*
- 
-Write a program which accepts number from user and Count Odd Digits from that number.
+/* Write a program which accepts number from user and Count Odd Digits from that number.
 
 Input : 1639
 Output : 3
@@ -9,10 +7,9 @@ Input : 46
 Output :0
 
 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
-
-
 
 void CountOddDigit(int iNo)
 {
@@ -45,3 +42,11 @@ int main()
 
 	return 0;
 }
+
+
+
+
+
+
+
+
