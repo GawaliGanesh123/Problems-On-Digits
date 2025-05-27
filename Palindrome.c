@@ -1,14 +1,13 @@
-/*
-
-Accept Number From User and check whether number is palindrome or not.
+/* Accept Number From User and check whether number is palindrome or not.
 
 Input- 324
-Ouput- Number is not palindrome
+Output- Number is not palindrome
 
 Input- 121
-Outpu- Number is Palindrome
+Output- Number is Palindrome
 
 */
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 #include<stdbool.h>
@@ -58,3 +57,9 @@ int main()
 
    return 0;
 }
+
+
+
+
+
+
