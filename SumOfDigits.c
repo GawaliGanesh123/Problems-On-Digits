@@ -1,6 +1,4 @@
-/*
- 
-Write a program which accepts number from user and Count Summation of all Digits from that number.
+/* Write a program which accepts number from user and Count Summation of all Digits from that number.
 
 Input : 4326
 Output : 15
@@ -9,6 +7,7 @@ Input : 54
 Output :6
 
 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
@@ -38,3 +37,16 @@ int main()
 
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
