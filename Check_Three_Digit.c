@@ -1,3 +1,13 @@
+/* Write a program to check whether a given number is a three digit number or not.
+
+Input- 512
+Output- Yes its 3 Digit Number
+
+Input-1024
+Output- No its not 3 Digit Number
+*/
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -61,4 +71,5 @@ int main()
     }
 
 	return 0;
+
 }
